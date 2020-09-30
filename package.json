@@ -10,8 +10,12 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "axios": "^0.20.0",
+    "lodash": "^4.17.20",
+    "native-base": "^2.13.14",
     "react": "16.13.1",
     "react-native": "0.63.2",
+    "react-native-image-colors": "^1.2.4",
     "styled-components": "^5.2.0"
   },
   "devDependencies": {
